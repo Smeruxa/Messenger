@@ -1,5 +1,6 @@
 # Messenger
 Мессенджер написанный на PHP / JS / HTML / CSS с использованием библиотек Bootstrap и JQuery
+Предусмотрена работа с драйвером MySQLi и самим MySQL
 Стандартный вид мессенджера:
 
 ![image](https://github.com/Smeruxa/Messenger/assets/57842015/a5127034-43f4-4e93-a613-d38c5f69774d)
